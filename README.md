@@ -1,2 +1,2 @@
 # project-showcase
-Portfolio Case Studies Architecture Notes Screenshots
+Portfolio of production software systems, architecture case studies, engineering notes, and delivery highlights spanning 20+ years of software engineering.
